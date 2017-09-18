@@ -28,6 +28,18 @@ public class DelgadosTacos {
 		double enchiladasAmountOrder = 22;
 		double frenchFriesAmountOrder = 42;
 		
+		double tacoPriceTotal;
+		double chipPriceTotal;
+		double saladPriceTotal;
+		double fruitSnacksPriceTotal;
+		double softDrinkPriceTotal;
+		double nachoPriceTotal;
+		double pretezelPriceTotal;
+		double walkingPriceTotal;
+		double enchiladasPriceTotal;
+		double frenchFriesPriceTotal;
+		
+		
 		
 		 
 		menu();
